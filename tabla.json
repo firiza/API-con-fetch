@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"nombre": "Valentin",
+		"email": "freddyiriza_007",
+		"estado": true
+	},
+
+	{
+		"id": 2,
+		"nombre": "Laura",
+		"email": "larias4286",
+		"estado": true
+	},
+
+	{
+		"id": 3,
+		"nombre": "Anthony",
+		"email": "anthonyfilgueira",
+		"estado": false
+	},
+
+	{
+		"id": 4,
+		"nombre": "Mayerling",
+		"email": "mayerlinga",
+		"estado": true
+	}
+]
